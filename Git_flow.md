@@ -13,10 +13,10 @@ Comandos para um git flow das galáxias.
   git clone link_do_repo
 ```
 
-1.2 Vá para a sua branch de desenvolvimento (nesse caso será a branch `dev`:
+1.2 Vá para a branch de desenvolvimento (nesse caso será a branch `dev`:
 
 ```bash
-  git clone link_do_repo
+  git checkout dev
 ```
 
 1.3 Atualize a branch de desenvolvimento (localmente) *(faça isso sempre antes de abrir uma nova branch):
