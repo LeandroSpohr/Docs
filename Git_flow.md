@@ -13,7 +13,7 @@ Comandos para um git flow das galáxias.
   git clone link_do_repo
 ```
 
-1.2 Vá para a branch de desenvolvimento (nesse caso será a branch `dev`:
+1.2 Vá para a branch de desenvolvimento (nesse caso será a branch `dev`) * se não houver, crie uma no github ou através do passo 1.4:
 
 ```bash
   git checkout dev
