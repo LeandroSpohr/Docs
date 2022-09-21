@@ -28,7 +28,7 @@ Comandos para um git flow das galáxias.
 1.4 Crie uma nova branch a partir da dev para sua feature:
 
 ```bash
-  git checkout -b nome_sua_branch
+  git checkout -b nome-da-sua-branch
 ``` 
 
 #### 2 Salvando sua feature
@@ -50,7 +50,7 @@ Depois de muitos codigos galácticos, salve as suas alterações localmente e na
 2.3 Faça o upload para a nuvem:
 
 ```bash
-  git push origin nome_sua_branch
+  git push origin nome-da-sua-branch
 ``` 
 
 2.4 Atualiza a sua branch com a de `dev` para ver se nao houve alterações e ou conflitos 
